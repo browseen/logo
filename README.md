@@ -22,13 +22,13 @@ Logotyp browseen
 
 ### white background
 
-+ ![browseen.png](1/default.png)
-+ ![browseen.png](2/default.png)
++ ![browseen.png](1/cover.png)
++ ![browseen.png](2/cover.png)
 
 
 
 ### black background
 
-+ ![browseen.png](3/default.png)
-+ ![browseen.png](4/default.png)
++ ![browseen.png](3/cover.png)
++ ![browseen.png](4/cover.png)
 
